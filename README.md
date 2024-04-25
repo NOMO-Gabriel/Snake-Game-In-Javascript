@@ -5,6 +5,7 @@ Bienvenue dans le projet de jeu du serpent ! Ce projet implémente un jeu du ser
 ## Table des matières
 
 - [Aperçu](#aperçu)
+- [Demo](#Demo)
 - [Fonctionnalités](#fonctionnalités)
 - [Comment jouer](#comment-jouer)
 - [Installation](#installation)
@@ -15,15 +16,9 @@ Bienvenue dans le projet de jeu du serpent ! Ce projet implémente un jeu du ser
 ## Aperçu
 
 Le jeu du serpent est un jeu classique où vous contrôlez un serpent qui se déplace dans une grille pour manger des pommes. Chaque pomme mangée fait grandir le serpent. Le jeu se termine lorsque le serpent entre en collision avec le bord de la grille ou avec son propre corps.
-![Capture d'écran du jeu](/demo/snakegame.png)
+![Capture video du jeu](/demo/snakegame.png)
 ## Démonstration du jeu
-
-Voici une vidéo de démonstration du jeu du serpent :
-
-<video controls>
-  <source src="/demo/snake-game.webm" type="video/webm">
-  Votre navigateur ne supporte pas la lecture des vidéos.
-</video>
+[Voir la vidéo de démonstration](/demo/demo.gif)
 
 ## Fonctionnalités
 
@@ -32,6 +27,7 @@ Voici une vidéo de démonstration du jeu du serpent :
 - Le jeu se termine en cas de collision avec les murs ou le corps du serpent.
 - Affichage du score courant.
 - Possibilité de redémarrer le jeu avec la touche espace.
+
 
 
 ## Comment jouer
