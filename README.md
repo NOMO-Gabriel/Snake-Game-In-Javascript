@@ -6,6 +6,7 @@ Bienvenue dans le projet de jeu du serpent ! Ce projet implémente un jeu du ser
 
 - [Aperçu](#aperçu)
 - [Demo](#Demo)
+- [Test en ligne](#test-en-ligne)
 - [Fonctionnalités](#fonctionnalités)
 - [Comment jouer](#comment-jouer)
 - [Installation](#installation)
@@ -19,6 +20,10 @@ Le jeu du serpent est un jeu classique où vous contrôlez un serpent qui se dé
 ![Capture video du jeu](/demo/snakegame.png)
 ## Démonstration du jeu
 [Voir la vidéo de démonstration](/demo/demo.gif)
+
+## Tester en ligne
+Vous pouvez directement tester le projet en ligne sur le lien: 
+[venez tester en ligne ici]( https://nomo-gabriel.github.io/Snake-Game-In-Javascript/)
 
 ## Fonctionnalités
 
